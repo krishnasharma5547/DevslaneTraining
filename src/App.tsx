@@ -23,7 +23,7 @@ const App: React.FC = () => {
 
                 )}
             >
-              You List
+              Your List
             </button>
           </div>
         </div>
